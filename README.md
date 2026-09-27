@@ -15,6 +15,10 @@
 
 <br><br>
 
+### Activity
+[![](https://raw.githubusercontent.com/mehulpatil83/mehulpatil83/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/mehulpatil83/mehulpatil83/output/github-contribution-grid-snake-dark.svg)
+<br><br>
+
 <a href="https://www.linkedin.com/in/mehul-patil83/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -238,19 +242,18 @@ Competing in Smart India Hackathon 2026 and other national-level hackathons, bui
 
 ## GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=mehulpatil83&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=F87171&icon_color=EF4444&text_color=F5F5F5" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=mehulpatil83&theme=radical&hide_border=true&background=0A0A0A&stroke=EF4444&ring=F87171&fire=F87171&currStreakLabel=F5F5F5" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulpatil83&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=F87171&text_color=F5F5F5" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:1A1A1A&height=4&width=900"/>
+<img src="https://streak-stats.demolab.com/?user=mehulpatil83&theme=radical&hide_border=true&background=0A0A0A&stroke=EF4444&ring=F87171&fire=F87171&currStreakLabel=F5F5F5" />
+
+<br>
+
+
+
+
+
+
 
 
 ## Connect
