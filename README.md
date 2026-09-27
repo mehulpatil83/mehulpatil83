@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1A1A1A,100:DC2626&height=200&section=header&text=Mehul%20Patil&fontSize=50&fontColor=F5F5F5&fontAlignY=40" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=F87171&center=true&vCenter=true&width=820&lines=First-Year+Student+%40+MITAOE;Building+with+AI+%2B+ML+%2B+RAG;Multi-Agent+Systems+%2B+Transformers+%2B+RAG;Turning+constraints+into+leverage" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=F87171&center=true&vCenter=true&width=820&lines=BTech+Computer+Engineering+Student+at+MIT+Pune;Building+with+AI+%2B+ML+%2B+RAG+%2B+Computer+Vision;Multi-Agent+Systems+%2B+Transformers+%2B+RAG;Turning+constraints+into+leverage" alt="Typing SVG"/>
 
 <br><br>
 
@@ -44,11 +44,11 @@
 </div>
 
 <p align="center">
-I'm a first-year <strong>Computer Engineering</strong> student at <strong>MIT Academy of Engineering, Alandi, Pune</strong>, and a member of <strong>GDG MITAOE</strong>. I compete in hackathons under the team name <strong>BRAMHASTRA</strong>, and I was shortlisted for the <strong>Gemini Student Ambassador Program 2026</strong>.
+I'm a first-year <strong>Computer Engineering</strong> student at <strong>MIT Academy of Engineering, Alandi, Pune</strong>, Current Founding Engineer (Cohort 2) at <strong>OBLIQ.in</strong>, Ex - AI Developer Intern at <strong> Tronocity Labs Pune </strong> I've Competed in multiple Hackathons, built multiple solutions to Real Life issues. I am also a proud member of <strong>GDG MITAOE</strong> and Ex - Google Student Ambassador.
 </p>
 
 <p align="center">
-I favor building complete, working systems over phased demos — real trained models over API wrappers. My dev environment is intentionally lean (WSL2/Ubuntu, an Intel i3 with no GPU), so most of what I build is engineered to punch above that weight class.
+I favor building complete, working systems over phased demos — real trained models over API wrappers. My current dev environment is intentionally lean (WSL2/Ubuntu, an Intel i3 with no GPU), so most of what I build is engineered to punch above that weight class.
 </p>
 
 <div align="center">
@@ -199,15 +199,26 @@ An offline file-transfer app moving data between devices with no network connect
 
 ## Experience
 
-### Hackathon Builder — Team BRAMHASTRA
+### Founding Engineer (Cohort 2) — OBLIQ.in
 
-Competing in Smart India Hackathon 2026 and other national-level hackathons, building multi-agent and ML-driven systems end-to-end — from data pipeline through a working, demo-ready product.
+Designed workflow for a single place multiple firm Document Audit system -- where staff could upload documents and examiner could give proper suggestions about approval or resubmission.
+
+<br>
+
+`Agentic system` `Python` `FastAPI` `React` `Model Training`
 
 <br>
 
-`Multi-Agent Systems` `Python` `FastAPI` `React` `Model Training`
+### AI Developer Intern — Tronocity Labs Pune
+
+Worked on the flagship project Akhrot Gigzs. and NUT. Completed tasks for successful data transmission for context sharing and also OCR workflows
 
 <br>
+
+`Agentic system` `OCR` `AI integration` `Data transmission` `Model Training`
+
+<br>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:1A1A1A&height=4&width=900"/>
 
@@ -225,14 +236,6 @@ Competing in Smart India Hackathon 2026 and other national-level hackathons, bui
 <tr>
 <td>GDG MITAOE Member</td>
 <td>Active member, Google Developer Groups MITAOE</td>
-</tr>
-<tr>
-<td>SIH 2026 — MoveGuard AI</td>
-<td>Team BRAMHASTRA — real-time sports performance & injury-risk system</td>
-</tr>
-<tr>
-<td>SIH 2026 — ORCA</td>
-<td>Team BRAMHASTRA — 11-agent marine ecosystem reasoning system</td>
 </tr>
 </table>
 
